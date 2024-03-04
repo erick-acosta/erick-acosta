@@ -4,8 +4,8 @@
 
 -   **Nombre:** Erick Acosta
 -   **Ubicación:** Caracas-Venezuela
--   **Experiencia:** 5 como Desarrollador Front-end
--   **Especialidades:** Html, CSS, Javascript, Bootstrap, Django
+-   **Experiencia:** 5 como Desarrollador Full-stack
+-   **Especialidades:** Html, CSS, Javascript, Bootstrap, Django, Reactjs, Angular, Nodejs, Express
 
 
 
