@@ -5,7 +5,7 @@
 -   **Nombre:** Erick Acosta
 -   **Ubicación:** Caracas-Venezuela
 -   **Experiencia:** 5 como Desarrollador Full-stack
--   **Especialidades:** Html, CSS, Javascript, Bootstrap, Django, Reactjs, Angular, Nodejs, Express
+-   **Especialidades:**  Php, Larevel ,Html, CSS, Javascript, Bootstrap, Django, Reactjs, Angular, Nodejs, Express
 
 
 
